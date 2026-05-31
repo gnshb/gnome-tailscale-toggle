@@ -1,0 +1,10 @@
+# Claude Code local files
+.claude/
+
+# Editor / OS cruft
+*.swp
+*~
+.DS_Store
+
+# Build artifacts
+*.zip

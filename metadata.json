@@ -1,0 +1,8 @@
+{
+  "uuid": "tailscale-toggle@gnshb",
+  "name": "Tailscale Toggle",
+  "description": "Show Tailscale connection status, toggle the VPN on/off, and list connected devices from the Quick Settings menu.",
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1,
+  "url": "https://github.com/gnshb/gnome-tailscale-toggle"
+}

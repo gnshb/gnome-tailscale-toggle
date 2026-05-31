@@ -1,0 +1,36 @@
+.ts-dot-online {
+    color: #57e389; /* green */
+    margin-right: 8px;
+}
+
+.ts-dot-offline {
+    color: #8a8a8a; /* dim gray */
+    margin-right: 8px;
+}
+
+.ts-ip-label {
+    color: #b0b0b0;
+    font-feature-settings: "tnum";
+    margin-left: 16px;
+    font-size: 0.85em;
+}
+
+.ts-status-label {
+    font-weight: bold;
+}
+
+.ts-hint-label {
+    color: #b0b0b0;
+    font-size: 0.85em;
+}
+
+.ts-action-label {
+    font-weight: bold;
+}
+
+/* Tight, compact device rows. */
+.ts-device-item {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    min-height: 0;
+}
